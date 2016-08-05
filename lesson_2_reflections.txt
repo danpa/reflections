@@ -8,9 +8,13 @@ of commits better. Maybe it allows you to add several things as part of a single
 
 Q: How can you use the staging area to make sure you have one commit per logical
 change?
+A: Understand better now, the staging area lets me track what I would like to commit and
+analyze differences between it and wd one side and the git repo on the other
 
 Q: What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
+A: When I want to try something new but continue my master branch, keeps similar code and
+tracking while making it easier to work on separately
 
 Q: How do the diagrams help you visualize the branch structure?
 
