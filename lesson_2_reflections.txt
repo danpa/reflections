@@ -17,9 +17,14 @@ A: When I want to try something new but continue my master branch, keeps similar
 tracking while making it easier to work on separately
 
 Q: How do the diagrams help you visualize the branch structure?
+A: Just helps to visualize
 
 Q: What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
+Q: One master branch with joined functionality by simply joining new lines added, and
+ a full commit history of both branches
 
 Q: What are the pros and cons of Gitâ€™s automatic merging vs. always doing merges
 manually?
+A: Finds a good balance between automatically joining the obvious stuff and leaving up to 
+you to manually merge any potentially conflicting stuff
