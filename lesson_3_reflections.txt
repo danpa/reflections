@@ -7,13 +7,14 @@ A: To give you choice of branches and mixing with other people's code at times y
 
 Q: Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
+A: Forking to make my own copy of a repo that I want to keep attributed but change. Clone
+when I just want to copy it and its history. Branch for when I want to change something on
+ an already cloned/forked repo
 
-    Fill in your answer here
 
 Q: What is the benefit of having a copy of the last known state of the remote
 stored locally?
-
-    Fill in your answer here
+A: It has the entire commit history up to that point stored so you can revisit/investigate
 
 Q: How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
